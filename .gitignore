@@ -1,0 +1,28 @@
+# Build directories
+build/
+bin/
+lib/
+out/
+.cmake/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+# Output images and data
+output/
+results/
+*.csv
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
